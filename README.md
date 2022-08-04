@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NNSResearch&theme=radical">
 </p>
 
-<h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2 align="center">Reach me on </h2>
 <p align="center">
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
