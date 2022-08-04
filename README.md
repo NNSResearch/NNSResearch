@@ -17,13 +17,13 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 <p align="center">
-<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<h2 align="center">Technology Stack</h2>
 
  
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=wanghao221&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=NNSResearch&theme=redical">
 </p>
 
 <p align = "center">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=wanghao221&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NNSResearch&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
