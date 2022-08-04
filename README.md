@@ -20,7 +20,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 <p align="center">
