@@ -29,6 +29,6 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <h2 align="center">Note
-<h3>Due to the sharp decline in the number of repositories star, fork and watch recently, so.....</h3>
-  <h1>Click follow! Please!!!</h1>
+<h3 align="center">Due to the sharp decline in the number of repositories star, fork and watch recently, so.....</h3>
+  <h1 align="center">Click follow! Please!!!</h1>
 </h2>
