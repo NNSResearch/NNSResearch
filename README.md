@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="center">Reach me on </h2>
 <p align="center">
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/> and Xueersi Code
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 <p align="center">
 <h2 align="center">Technology Stack</h2>
