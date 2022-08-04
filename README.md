@@ -27,3 +27,5 @@ You can click the Preview link to take a look at your changes.
 <p align = "center">
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NNSResearch&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
+
+<h2 align="center">Note</h2>
