@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=wanghao221&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=NNSResearch&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wanghao221&theme=radical">
 </p>
 
