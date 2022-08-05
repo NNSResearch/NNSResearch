@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 <img src="https://img.shields.io/badge/-CSDN-black?style=flat-square&logo=CSDN"/>
-<img src="https://img.shields.io/badge/-github-black?style=flat-square&logo=Xueersi Code"/>
+<img src="https://img.shields.io/badge/-XueersiCode-black?style=flat-square&logo=Xueersi Code"/>
 </p>
 <p align="center">
 <h2 align="center">Technology Stack</h2>
