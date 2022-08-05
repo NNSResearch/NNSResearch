@@ -21,6 +21,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/-CSDN-black?style=flat-square&logo=CSDN"/>
 </p>
 <p align="center">
 <h2 align="center">Technology Stack</h2>
