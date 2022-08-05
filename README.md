@@ -25,6 +25,11 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
 <h2 align="center">Technology Stack</h2>
 
+<p align="center">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=python"/>
+</p>
  
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=NNSResearch&theme=redical">
