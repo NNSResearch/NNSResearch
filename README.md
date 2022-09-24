@@ -7,11 +7,6 @@ NNSResearch/NNSResearch is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=NNSResearch&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NNSResearch&theme=radical">
-</p>
-
 <h2 align="center">Reach me on </h2>
 <p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
